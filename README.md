@@ -9,9 +9,9 @@
 
 + Saving to a possible API
 
-<h2>Screen Main</h2>
+<h2 align="center">Screen Main</h2>
 
-<p><img src="todo/src/assests/to_do_list_screen.png" /></p>
+<p align="center"><img src="todo/src/assests/to_do_list_screen.png" /></p>
 
 ### Instalation Frontend
 
