@@ -11,7 +11,7 @@
 
 <h2>Screen Main</h2>
 
-<p><img src="todo/src/assests/to_do_list_screen" /></p>
+<p><img src="todo/src/assests/to_do_list_screen.png" /></p>
 
 ### Instalation Frontend
 
