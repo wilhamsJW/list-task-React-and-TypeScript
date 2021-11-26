@@ -6,6 +6,7 @@ type ContainerProps = {
 
 export const Container = styled.div(({ done }: ContainerProps) => ( // esse ContainerProps quer dizer que minha props está usando o typre ContainerProps
     // no typescript ao usar uma props temos q informar o type dela
+    // essa prop 'done' está sendo eviada do componente que está utilizando esse css
     `
     display: flex;
     background-color: #20212C;
