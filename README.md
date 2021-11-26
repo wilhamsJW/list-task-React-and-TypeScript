@@ -1,10 +1,17 @@
 ### Project List Task (lista de tarefa)
+(Projeto feito apenas para colocar aprendizado inicial do TypeScript e Styled Components)
 
 ### Functionalities
 
-+ 
++ Adding new task
 
-+ 
++ Check and unchecked completed tasks
+
++ Saving to a possible API
+
+<h2>Screen Main</h2>
+
+<p><img src="todo/src/assests/to_do_list_screen" /></p>
 
 ### Instalation Frontend
 
